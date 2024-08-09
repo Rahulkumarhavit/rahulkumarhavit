@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [rahulkumarhavit.online](rahulkumarhavit.online)
+- 👨‍💻 All of my projects are available at [portfolio](https://rahulkumarhavit.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://dev.to/rahulkumarhavitmsi](https://dev.to/rahulkumarhavitmsi)
 
